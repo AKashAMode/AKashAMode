@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** ea
 ## 🚀 Technologies & Tools
 
 - **Languages:** Java, JavaScript, HTML, CSS
-- **Frameworks:** Bootstrap
 - **Databases:** MySQL
 - **Tools:** Git, Visual Studio Code.
 
