@@ -15,4 +15,4 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Web Developer** ea
 - **Databases:** MySQL
 - **Tools:** Git, Visual Studio Code.
 
-Feel free to explore my repositories, and I’m always open to feedback and suggestions!
+Feel free to explore my repositories; I’m always open to feedback and suggestions!
