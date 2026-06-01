@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER - SVG Terminal Boot Sequence -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;Full+Stack+Engineer+%7C+Java+%2B+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&multiline=true&width=700&height=100&lines=%24+whoami;Full+Stack+Developer+%7C+Java+%2B+React" alt="Typing SVG" />
 
 </div>
 
